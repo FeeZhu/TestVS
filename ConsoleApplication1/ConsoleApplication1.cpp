@@ -12,7 +12,7 @@ int main()
 {
 	for (auto &x : { 10,21,32 })
 	{
-		cout <<elementry(x) << '\n';
+		cout << x << '\n';
 	}
 	return 0;
 }
