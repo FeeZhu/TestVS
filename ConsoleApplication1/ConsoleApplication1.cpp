@@ -19,5 +19,5 @@ int main()
 
 int elementry(int x)
 {
-	return x*x;
+	return x*x+x;
 }
